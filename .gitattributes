@@ -1,1 +1,6 @@
 *.html linguist-detectable=false
+*.html linguist-vendored
+*.js linguist-vendored
+*.css linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
